@@ -1,0 +1,1 @@
+export GOOGLE_APPLICATION_CREDENTIALS="/home/jhonatan/Documents/node_firebase/node-firebase-crud-firebase-adminsdk-3wtwo-b049106d7b.json"
